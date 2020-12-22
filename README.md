@@ -26,40 +26,40 @@ python minist.py
 
 ## Result
 
-![minist](https://github.com/wanghuzhen/AI_minist.git\实验一(dnn)\minist.png)
+![minist](https://github.com/wanghuzhen/AI_minist/blob/main/%E5%AE%9E%E9%AA%8C%E4%B8%80(dnn)/minist.png)
 
-![model](https://github.com/wanghuzhen/AI_minist.git\实验一(dnn)\model.PNG)
+![model](https://github.com/wanghuzhen/AI_minist/blob/main/%E5%AE%9E%E9%AA%8C%E4%B8%80(dnn)/model.PNG)
 
-<img src="https://github.com/wanghuzhen/AI_minist.git\实验一(dnn)\history.PNG" alt="history"  />
+<img src="https://github.com/wanghuzhen/AI_minist/blob/main/%E5%AE%9E%E9%AA%8C%E4%B8%80(dnn)/history.PNG" alt="history"  />
 
-![accura](https://github.com/wanghuzhen/AI_minist.git\实验一(dnn)\accura.png)
+![accura](https://github.com/wanghuzhen/AI_minist/blob/main/%E5%AE%9E%E9%AA%8C%E4%B8%80(dnn)/accura.png)
 
-![loss](https://github.com/wanghuzhen/AI_minist.git\实验一(dnn)\loss.png)
+![loss](https://github.com/wanghuzhen/AI_minist/blob/main/%E5%AE%9E%E9%AA%8C%E4%B8%80(dnn)/loss.png)
 
-<img src="https://github.com/wanghuzhen/AI_minist.git\实验一(dnn)\res1.png" alt="res1" style="zoom:50%;" />
+<img src="https://github.com/wanghuzhen/AI_minist/blob/main/%E5%AE%9E%E9%AA%8C%E4%B8%80(dnn)/res1.png" alt="res1" style="zoom:50%;" />
 
 # 实验二(cnn)
 
 ## Result
 
-![minist_cnn](https://github.com/wanghuzhen/AI_minist.git\实验二(cnn)\minist_cnn.png)
+![minist_cnn](https://github.com/wanghuzhen/AI_minist/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%8C(cnn)/minist_cnn.png)
 
-![model](https://github.com/wanghuzhen/AI_minist.git\实验二(cnn)\model.png)
+![model](https://github.com/wanghuzhen/AI_minist/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%8C(cnn)/model.png)
 
-![history](https://github.com/wanghuzhen/AI_minist.git\实验二(cnn)\history.png)
+![history](https://github.com/wanghuzhen/AI_minist/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%8C(cnn)/history.png)
 
-![accuracy](https://github.com/wanghuzhen/AI_minist.git\实验二(cnn)\accuracy.png)
+![accuracy](https://github.com/wanghuzhen/AI_minist/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%8C(cnn)/accuracy.png)
 
-![loss](https://github.com/wanghuzhen/AI_minist.git\实验二(cnn)\loss.png)
+![loss](https://github.com/wanghuzhen/AI_minist/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%8C(cnn)/loss.png)
 
-<img src="https://github.com/wanghuzhen/AI_minist.git\实验二(cnn)\res.png" alt="res" style="zoom:50%;" />
+<img src="https://github.com/wanghuzhen/AI_minist/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%8C(cnn)/res.png" alt="res" style="zoom:50%;" />
 
 # 实验三(AE)
 
 ## Result
 
-![model](https://github.com/wanghuzhen/AI_minist.git\实验三(AE)\model.PNG)
+![model](https://github.com/wanghuzhen/AI_minist/blob/main/%E5%AE%9E%E9%AA%8C%E4%B8%89(AE)/model.PNG/model.PNG)
 
-![res](https://github.com/wanghuzhen/AI_minist.git\实验三(AE)\res.png)
+![res](https://github.com/wanghuzhen/AI_minist/blob/main/%E5%AE%9E%E9%AA%8C%E4%B8%89(AE)/model.PNG/res.png)
 
-![res2](https://github.com/wanghuzhen/AI_minist.git\实验三(AE)\res2.png)
+![res2](https://github.com/wanghuzhen/AI_minist/blob/main/%E5%AE%9E%E9%AA%8C%E4%B8%89(AE)/model.PNG/res2.png)
