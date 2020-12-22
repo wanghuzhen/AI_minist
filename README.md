@@ -22,44 +22,44 @@ python minist.py
 
 只进行预测输出，在保证模型已经训练好后，注释掉训练模型的代码块，使用model.predict()可以对单个数据进行预测，使用model.predictclass()可以对多个数据集进行预测分类。
 
-# 实验一
+# 实验一(dnn)
 
 ## Result
 
-![minist](https://github.com/wanghuzhen/AI_minist.git\实验一\minist.png)
+![minist](https://github.com/wanghuzhen/AI_minist.git\实验一(dnn)\minist.png)
 
-![model](https://github.com/wanghuzhen/AI_minist.git\实验一\model.PNG)
+![model](https://github.com/wanghuzhen/AI_minist.git\实验一(dnn)\model.PNG)
 
-<img src="https://github.com/wanghuzhen/AI_minist.git\实验一\history.PNG" alt="history"  />
+<img src="https://github.com/wanghuzhen/AI_minist.git\实验一(dnn)\history.PNG" alt="history"  />
 
-![accura](https://github.com/wanghuzhen/AI_minist.git\实验一\accura.png)
+![accura](https://github.com/wanghuzhen/AI_minist.git\实验一(dnn)\accura.png)
 
-![loss](https://github.com/wanghuzhen/AI_minist.git\实验一\loss.png)
+![loss](https://github.com/wanghuzhen/AI_minist.git\实验一(dnn)\loss.png)
 
-<img src="https://github.com/wanghuzhen/AI_minist.git\实验一\res1.png" alt="res1" style="zoom:50%;" />
+<img src="https://github.com/wanghuzhen/AI_minist.git\实验一(dnn)\res1.png" alt="res1" style="zoom:50%;" />
 
-# 实验二
-
-## Result
-
-![minist_cnn](https://github.com/wanghuzhen/AI_minist.git\实验二\minist_cnn.png)
-
-![model](https://github.com/wanghuzhen/AI_minist.git\实验二\model.png)
-
-![history](https://github.com/wanghuzhen/AI_minist.git\实验二\history.png)
-
-![accuracy](https://github.com/wanghuzhen/AI_minist.git\实验二\accuracy.png)
-
-![loss](https://github.com/wanghuzhen/AI_minist.git\实验二\loss.png)
-
-<img src="https://github.com/wanghuzhen/AI_minist.git\实验二\res.png" alt="res" style="zoom:50%;" />
-
-# 实验三
+# 实验二(cnn)
 
 ## Result
 
-![model](https://github.com/wanghuzhen/AI_minist.git\实验三\model.PNG)
+![minist_cnn](https://github.com/wanghuzhen/AI_minist.git\实验二(cnn)\minist_cnn.png)
 
-![res](https://github.com/wanghuzhen/AI_minist.git\实验三\res.png)
+![model](https://github.com/wanghuzhen/AI_minist.git\实验二(cnn)\model.png)
 
-![res2](https://github.com/wanghuzhen/AI_minist.git\实验三\res2.png)
+![history](https://github.com/wanghuzhen/AI_minist.git\实验二(cnn)\history.png)
+
+![accuracy](https://github.com/wanghuzhen/AI_minist.git\实验二(cnn)\accuracy.png)
+
+![loss](https://github.com/wanghuzhen/AI_minist.git\实验二(cnn)\loss.png)
+
+<img src="https://github.com/wanghuzhen/AI_minist.git\实验二(cnn)\res.png" alt="res" style="zoom:50%;" />
+
+# 实验三(AE)
+
+## Result
+
+![model](https://github.com/wanghuzhen/AI_minist.git\实验三(AE)\model.PNG)
+
+![res](https://github.com/wanghuzhen/AI_minist.git\实验三(AE)\res.png)
+
+![res2](https://github.com/wanghuzhen/AI_minist.git\实验三(AE)\res2.png)
