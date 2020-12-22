@@ -58,8 +58,8 @@ python minist.py
 
 ## Result
 
-![model](https://github.com/wanghuzhen/AI_minist/blob/main/%E5%AE%9E%E9%AA%8C%E4%B8%89(AE)/model.PNG/model.PNG)
+![model](https://github.com/wanghuzhen/AI_minist/blob/main/%E5%AE%9E%E9%AA%8C%E4%B8%89(AE)/model.PNG)
 
-![res](https://github.com/wanghuzhen/AI_minist/blob/main/%E5%AE%9E%E9%AA%8C%E4%B8%89(AE)/model.PNG/res.png)
+![res](https://github.com/wanghuzhen/AI_minist/blob/main/%E5%AE%9E%E9%AA%8C%E4%B8%89(AE)/res.png)
 
-![res2](https://github.com/wanghuzhen/AI_minist/blob/main/%E5%AE%9E%E9%AA%8C%E4%B8%89(AE)/model.PNG/res2.png)
+![res2](https://github.com/wanghuzhen/AI_minist/blob/main/%E5%AE%9E%E9%AA%8C%E4%B8%89(AE)/res2.png)
